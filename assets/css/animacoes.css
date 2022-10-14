@@ -1,0 +1,7 @@
+@keyframes c-glowing-roxo{
+    0%{
+        box-shadow: 0 0 5px var(--cor-roxo-fraco), 0 0 5px var(--cor-roxo-fraco), 0 0 30px var(--cor-roxo-fraco), 0 0 35px var(--cor-roxo-principal), 0 0 10px var(--cor-roxo-principal), 0 0 10px var(--cor-roxo-principal), 0 0 10px var(--cor-roxo-principal)
+    }to{
+        box-shadow: 0 0 2.5px var(--cor-roxo-fraco), 0 0 2.5px var(--cor-roxo-fraco), 0 0 7.5px var(--cor-roxo-fraco), 0 0 10px var(--cor-roxo-principal), 0 0 5px var(--cor-roxo-principal), 0 0 5px var(--cor-roxo-principal), 0 0 5px var(--cor-roxo-principal), 0 0 2px var(--cor-roxo-principal)
+    }
+}
