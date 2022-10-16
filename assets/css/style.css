@@ -20,7 +20,7 @@ body {
     width: 370px;
     border: 2px solid var(--cor-roxo-principal);
     border-radius: 10px;
-    animation: c-glowing-roxo .5s ease-in-out infinite;
+    animation: c-glowing-roxo .8s ease-in-out infinite;
     animation-direction: alternate;
     overflow: hidden;
 }
@@ -47,12 +47,14 @@ body {
 .container .profile .name {
     font-size: 26px;
     color: #02d08f;
+    text-shadow: 3px 2px 2px #2b98f1;
     
 }
 
 .container .profile .office {
     font-size: 20px;
     color: #b8bbc5;
+    text-shadow: 3px 4px 3px #b1d9fa;
 }
 
 /* Finish section profile */
